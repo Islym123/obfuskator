@@ -1,0 +1,1 @@
+public class a { public static void main(String[] args) throws InterruptedException { int c = 15; int d = 1; int e = 3; int g = c / d; int f = g; while (f >= e) { int h = f / e; g += h; f = h + (f % e); } System.out.b(g); } } 
